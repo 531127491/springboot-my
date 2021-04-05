@@ -1,6 +1,7 @@
 com\winter\controller\UserController.class
 com\winter\service\UserServiceImp.class
 com\winter\service\UserService.class
+com\winter\Configuration\WebMvcConfigurer.class
 com\winter\service\UserMessageService.class
 com\winter\mapper\UserMapper.class
 com\winter\model\User.class
